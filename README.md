@@ -20,7 +20,7 @@
   <div>
     <label for="amount" class="block text-sm font-medium text-gray-400">Quantia</label>
     <input data-id="amount" type="text" name="amount" class="mt-1 bg-gray-800 block w-full pl-3 pr-10 py-2 text-base text-white font-bold border-gray-700 focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm rounded-md" placeholder="Valor em BTC">
-    <span class="mt-2 text-xs text-gray-400">Valor em reais: R$0,00</span>  
+    <span class="mt-2 text-xs text-gray-400">Valor em reais: R$100.000.000,00</span>  
   </div>
   
   <!-- Descrição (Opcional) -->
